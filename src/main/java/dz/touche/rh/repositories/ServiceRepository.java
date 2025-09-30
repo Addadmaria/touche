@@ -1,6 +1,6 @@
-package dz.touche.rh.repository;
+package dz.touche.rh.repositories;
 
-import dz.touche.rh.domain.Service;
+import dz.touche.rh.entities.Service;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 import org.springframework.stereotype.Repository;

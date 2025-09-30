@@ -1,7 +1,7 @@
-package dz.touche.rh.web.rest;
+package dz.touche.rh.controllers;
 
-import dz.touche.rh.domain.Employe;
-import dz.touche.rh.service.EmployeService;
+import dz.touche.rh.entities.Employe;
+import dz.touche.rh.services.EmployeService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;

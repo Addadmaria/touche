@@ -1,4 +1,4 @@
-package dz.touche.rh.service;
+package dz.touche.rh.services;
 
 import com.example.hr.domain.Employe;
 import org.springframework.data.domain.Page;

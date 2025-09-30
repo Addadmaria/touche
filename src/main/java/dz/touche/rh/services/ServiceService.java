@@ -1,4 +1,4 @@
-package dz.touche.rh.service;
+package dz.touche.rh.services;
 
 public interface ServiceService {
 }

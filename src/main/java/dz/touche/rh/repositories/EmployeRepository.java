@@ -1,6 +1,6 @@
-package dz.touche.rh.repository;
+package dz.touche.rh.repositories;
 
-import dz.touche.rh.domain.Employe;
+import dz.touche.rh.entities.Employe;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.EntityGraph;

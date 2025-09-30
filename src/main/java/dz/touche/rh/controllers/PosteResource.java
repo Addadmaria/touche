@@ -1,7 +1,7 @@
-package dz.touche.rh.web.rest;
+package dz.touche.rh.controllers;
 
-import dz.touche.rh.domain.Poste;
-import dz.touche.rh.service.PosteService;
+import dz.touche.rh.entities.Poste;
+import dz.touche.rh.services.PosteService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;

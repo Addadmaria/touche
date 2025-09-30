@@ -1,7 +1,7 @@
-package dz.touche.rh.web.rest;
+package dz.touche.rh.controllers;
 
-import dz.touche.rh.domain.Direction;
-import dz.touche.rh.service.DirectionService;
+import dz.touche.rh.entities.Direction;
+import dz.touche.rh.services.DirectionService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;

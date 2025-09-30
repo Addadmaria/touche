@@ -1,4 +1,4 @@
-package dz.touche.rh.domain;
+package dz.touche.rh.entities;
 
 import jakarta.persistence.*;
 import lombok.*;

@@ -1,7 +1,7 @@
-package dz.touche.rh.web.rest;
+package dz.touche.rh.controllers;
 
-import dz.touche.rh.domain.RaisonSortie;
-import dz.touche.rh.service.RaisonSortieService;
+import dz.touche.rh.entities.RaisonSortie;
+import dz.touche.rh.services.RaisonSortieService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
