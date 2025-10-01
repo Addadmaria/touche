@@ -53,9 +53,9 @@ private Direction direction;
 @JoinColumn(name = "service_id")
 private Service service;
 
-@ManyToOne(fetch = FetchType.LAZY)
-@JoinColumn(name = "equipe_id")
-private Equipe equipe;
+// @ManyToOne(fetch = FetchType.LAZY)
+// @JoinColumn(name = "equipe_id")
+// private Equipe equipe;
 
 @Column(name = "statut_employe", length = 50)
 private String statutEmploye;
